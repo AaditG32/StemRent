@@ -26,4 +26,5 @@ a {
 
 .pages {
     align-self: right;
+    float: right;
 }
