@@ -1,1 +1,18 @@
+.header {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    vertical-align: top;
+}
+
+.logo {
+    align-items: left;
+    align-content: left;
+    align-self: left;
+}
+
+.links {
+    align-items: right;
+    align-content: right;
+}
 
