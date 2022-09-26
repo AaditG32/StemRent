@@ -1,6 +1,5 @@
 .header {
-    background-color: black;
-    color: white;
+    color: black;
     font-family: monospace;
     vertical-align: top;
 }
@@ -14,10 +13,9 @@
     
 }
 
-.links {
+.pages {
     align-items: right;
     align-content: right;
     text-decoration: none;
     color: white;
 }
-
