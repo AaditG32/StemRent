@@ -15,12 +15,13 @@
 
 a {
     text-decoration: none;
-    color: white;
+    color: black;
+    align-items: right;
+    align-content: right;
+}
 }
 
 
 .pages {
     
-    align-items: right;
-    align-content: right;
-}
+    
