@@ -20,8 +20,6 @@ a {
     color: black;
     align-items: right;
     align-content: right;
-    left-margin: 250px;
-}
 }
 
 
@@ -30,4 +28,5 @@ a {
     float: right;
     display: flex; 
     justify-content: flex-end;
+    left-margin: 250px;
 }
