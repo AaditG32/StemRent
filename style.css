@@ -2,6 +2,7 @@
     color: black;
     font-family: monospace;
     vertical-align: top;
+    display: flex;
 }
 
 .logo {
@@ -10,6 +11,7 @@
     align-self: left;
     font-size: 30px;
     color: red;
+    margin: 30px;
     
 }
 
